@@ -3,7 +3,7 @@ package zw.co.tonytech.ticketingsystem.business.domain;
 /**
  * Created by tndangana on 12/6/16.
  */
-public class NameBaseEntity {
+public class NameBaseEntity extends IdBaseEntity {
 
     private String name ;
 
